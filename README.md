@@ -111,10 +111,10 @@ Easily deploy to Heroku or railway with the button below:
 ## 🌐 Join The Community
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+  <a href="https://chat.whatsapp.com/Iy4qj2viFlkL50AXII7kCz">
     <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
+  <a href="https://whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o">
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
 </p>
