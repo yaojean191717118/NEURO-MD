@@ -1,35 +1,89 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🔰WELCOME TO DML-MD🔰</h2>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
+<img align="center" height="auto"
+src="https://files.catbox.moe/grlqyj.png">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=N+E+U+R+O+T+E+C+H+-+M+D+▇)](https://git.io/typing-svg)
+<br>
+
+   </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+DML-MD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+DML+💻;OFFICIALLY+TANZANIAN+BOT+🎉" alt="Typing Animation">
+<a href="https://github.com/Allmano774"><img title="Author" src="https://img.shields.io/badge/Allamano-blue?style=for-the-badge&logo=Github"></a> <a href="https://www.youtube.com/@Neurotech-xmd"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254785760507"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
+
+ <p align="center">
+  <!-- Followers -->
+  <a href="https://github.com/allamano774?tab=followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/allamano774?color=purple&style=flat-square">
+  </a>
+
+  <!-- Stars -->
+  <a href="https://github.com/allamano774/NEUROTECH-MD/stargazers">
+    <img title="Stars" src="https://img.shields.io/github/stars/allamano774/NEUROTECH-MD?color=blue&style=flat-square">
+  </a>
+
+  <!-- Forks -->
+  <a href="https://github.com/allamano774/NEUROTECH-MD/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/allamano774/NEUROTECH-MD?color=blue&style=flat-square">
+  </a>
+
+  <!-- Watchers -->
+  <a href="https://github.com/allamano774/NEUROTECH-MD/watchers">
+    <img title="Watchers" src="https://img.shields.io/github/watchers/allamano774/NEUROTECH-MD?label=Watchers&color=blue&style=flat-square">
+  </a>
+
+  <!-- Repository Size -->
+  <a href="https://github.com/allamano774/NEUROTECH-MD">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/allamano774/NEUROTECH-MD?style=flat-square&color=green">
+  </a>
+
+  <!-- Hits -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallamano774%2FNEUROTECH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
+  </a>
+
+  <!-- Maintained -->
+  <a href="https://github.com/allamano774/NEUROTECH-MD/graphs/commit-activity">
+    <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+  </a>
 </p>
 
+<!-- Visitor Count -->
 <p align="center">
-  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
+  <img src="https://profile-counter.glitch.me/NEUROTECH-MD/count.svg" alt="allamano774 :: Visitor's Count" />
 </p>
 
-## 📊 GitHub Stats
+<!-- Language Badge -->
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MLILA17&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLILA17&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
+  <a href="https://github.com/allamano774/NEUROTECH-MD">
+    <img title="Language" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink">
+  </a>
+  &nbsp;
+  <!-- Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=allamano774&label=VIEWS&style=flat-square&color=blue" />
+</p>
 
-  
-  </a> 
+<!-- Release Badge -->
+<p align="center">
+  <a href="https://github.com/allamano774/NEUROTECH-MD/releases">
+    <img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" />
+  </a>
+</p>
+
+<!-- Animated GIFs -->
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="Animated GIF" />
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="Animated GIF" />
 </p>
 
 ---
+### UPDATES
+---
+### 🎧 MUSIC DOWNLOADER
+### 🖼 RANDOMS ANIME IMAGE'S
+### 😅 FUN STICKERS
+### 🤖 CHATBOT
+### 🔗 ANTILINK
+### AND MORE COMMANDS
 
-## 🛡 How to Deploy in 3 Simple Steps
-
-<div align="center">
-
-### 🔹 Step 1: Fork & Star This Repo
-Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
-
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-MD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
 
 
 ---
@@ -68,9 +122,3 @@ Easily deploy to Heroku or railway with the button below:
 ---
 
 <h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v3.0 ⚡</h3>
-
-## ⚠️ Important Notice
-```diff
-- REDISTRIBUTION STRICTLY PROHIBITED
-+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
-! VIOLATORS WILL BE BLACKLISTED
