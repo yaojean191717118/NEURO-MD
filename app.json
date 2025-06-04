@@ -1,9 +1,9 @@
 {
-  "name":"DML-MD",
-  "description":"An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
+  "name":"NEURO-MD",
+  "description":"An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Allamano",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/vcdwmp.jpg",
-  "repository":"https://github.com/MLILA17/DML-MD",
+  "logo":"https://files.catbox.moe/grlqyj.png",
+  "repository":"https://github.com/Allamano774/NEURO-MD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -58,14 +58,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DML-MD",
+      "value":"NEURO-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/vcdwmp.jpg",
+      "value":"https://files.catbox.moe/grlqyj.png",
       "required":false
        
      },
@@ -102,7 +102,7 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of tanzania '255')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
     "required":true,
     "value": ""
   },
