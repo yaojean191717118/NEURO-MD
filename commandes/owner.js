@@ -20,8 +20,8 @@ for ( const sudo of sudos) { if (sudo) { sudonumero = sudo.replace(/[^0-9]/g, ''
 zokou({ nomCom: "dev", categorie: "Devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => { const { ms, mybotpic } = commandeOptions;
 
 const devs = [
-  { nom: "DML", numero: "255622220680" },
-  { nom: "DAUDY", numero: "255713541112" },
+  { nom: "Allamano", numero: "254785760507" },
+  { nom: "Neuro", numero: "254797966709" },
 ];
 
 let message = "Uuhh Hellow These are the Dev's Contacts:\n\n";
@@ -46,7 +46,7 @@ const devs = [
   { nom: "DAUDY", numero: "255713541112" },
 ];
 
-let message = "*Welcome to Dml-Md here is the developer numbers:*\n\n";
+let message = "*Welcome to Neuro-Md here is the developer numbers:*\n\n";
 for (const dev of devs) {
   message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
 }
