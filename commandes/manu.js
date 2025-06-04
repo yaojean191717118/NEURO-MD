@@ -26,7 +26,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     let infoMsg = `🖐🏻 *Hello ${nomAuteurMessage}!* 🖐🏻
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* 𝗗𝗠𝗟-𝗠𝗗  
+🚀 *BOT NAME:* NEURO-𝗠𝗗  
 ━━━━━━━━━━━━━━━━━━━━
 🌍 *SYSTEM INFO:*
 💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
@@ -40,7 +40,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 🔰 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒 & 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒:*  
   
 🔰 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋:  
-🔗 https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C    
+🔗 https://whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o    
 ━━━━━━━━━━━━━━━━━━━━
 ${readMore}
 📜 *COMMANDS MENU* 📜
